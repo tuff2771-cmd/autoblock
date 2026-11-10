@@ -6,10 +6,10 @@
     "mac": "2.2081",
     "ios": "2.2081"
   },
-  "id": "yourname.autoblock",
+  "id": "neyrouin.autoblock",
   "name": "Auto Block",
   "version": "v1.0.0",
-  "developer": "yourname",
+  "developer": "neyrouin",
   "description": "Automatically blocks a chosen user when you die or pause.",
   "settings": {
     "target-id": {
