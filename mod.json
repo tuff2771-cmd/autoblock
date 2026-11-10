@@ -1,0 +1,32 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
+  },
+  "id": "yourname.autoblock",
+  "name": "Auto Block",
+  "version": "v1.0.0",
+  "developer": "yourname",
+  "description": "Automatically blocks a chosen user when you die or pause.",
+  "settings": {
+    "target-id": {
+      "type": "int",
+      "name": "Account ID to block",
+      "description": "Default: krmal (625975)",
+      "default": 625975
+    },
+    "on-death": {
+      "type": "bool",
+      "name": "Block on death",
+      "default": true
+    },
+    "on-pause": {
+      "type": "bool",
+      "name": "Block on pause",
+      "default": true
+    }
+  }
+}
